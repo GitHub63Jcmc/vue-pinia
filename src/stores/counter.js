@@ -1,5 +1,5 @@
 import { defineStore } from "pinia";
 
-export const useCounterStore = defineStore("counter", () => {
+    export default defineStore("counter", () => {
     
 });
